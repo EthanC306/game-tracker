@@ -20,6 +20,11 @@ public class Game {
     public String getTitle() {
         return title;
     }
+    public int getHoursPlayed() {
+        return hoursPlayed;
+    }
+    public boolean getCompleted() { return completed; }
+
 }
 
 
